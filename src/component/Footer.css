@@ -1,0 +1,16 @@
+.main-footer {
+  color: white;
+  background-color: #64686b;
+  padding-top: 3em;
+  position: relative;
+  bottom: 0;
+  width: 100%;
+}
+
+.footer-bottom p {
+  color: white;
+}
+
+.col h4 {
+  text-align: left;
+}
